@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">NavDrawer2</string>
+    <string name="navigation_toggle_search">Search</string>
+    <string name="navigation_toggle_gallery">Gallery</string>
+    <string name="navigation_toggle_call">Call</string>
+    <string name="navigation_communicate">Communicate</string>
+    <string name="navigation_communicate_item_send">Send</string>
+    <string name="navigation_communicate_item_share">Share</string>
+    <string name="navigation_communicate_item_close">Close</string>
+    <string name="header_full_name">Next Tech Pro</string>
+    <string name="header_username">admin@nexttechpro.com</string>
 </resources>
