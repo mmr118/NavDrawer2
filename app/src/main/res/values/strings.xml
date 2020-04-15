@@ -7,9 +7,14 @@
     <string name="navigation_communicate_item_send">Send</string>
     <string name="navigation_communicate_item_share">Share</string>
     <string name="navigation_communicate_item_close">Close</string>
+
     <string name="header_full_name">Next Tech Pro</string>
     <string name="header_username">admin@nexttechpro.com</string>
 
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
